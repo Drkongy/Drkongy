@@ -1,4 +1,5 @@
-### Hi there 👋
+#### Hi, I'm Zeeshan!
+
 
 <!--
 **Drkongy/Drkongy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,3 +43,7 @@ Here are some ideas to get you started:
   <h2 align="center"> Activity: </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Zeeshan's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=drkongy&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
+
+---------------------------------------------------------------------------------------------------------------------
+Credits: <a href="https://github.com/Drkongy">Zeeshan</a>
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Drkongy.repoName) [![GitHub followers](https://img.shields.io/github/followers/Drkongy.svg?style=social&label=Follow)](https://github.com/Drkongy?tab=followers)<br/>
