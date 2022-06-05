@@ -1,22 +1,7 @@
 #### Hi, I'm Zeeshan!
 
 
-<!--
-**Drkongy/Drkongy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- github profle stats -->
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
@@ -45,5 +30,5 @@ Here are some ideas to get you started:
 </details>
 
 ---------------------------------------------------------------------------------------------------------------------
-Credits: <a href="https://github.com/Drkongy">Zeeshan</a>
+Credits: <a href="https://github.com/Drkongy">Zeeshan</a><br>
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Drkongy.repoName) [![GitHub followers](https://img.shields.io/github/followers/Drkongy.svg?style=social&label=Follow)](https://github.com/Drkongy?tab=followers)<br/>
