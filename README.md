@@ -1,8 +1,27 @@
-#### Hi, I'm Zeeshan!
+  <h2>Hi, I'm Zeeshan! 👋🏽</h2>
+
+
+
+<!-- about me -->
+[]: # Language: markdown
+[]: # Path: about.md
+  <h2>About Me</h2>
+  <p>I'm a software engineer & computer science student based in the UK. I'm a big fan of the technology, and I'm always looking to learn new things.</p>
+  <p>I'm currently studying at Aston University, studying Computer Science.</p>
+
+  <p>I am currently learning Java & Python, and I'm currently working on a game called BananaClicker using Unity Engine.</p>
+
+  <p>Feel free to email me at: <a href="mailto:Zeeshan@kongolian.tech">Zeeshan@kongolian.tech   📧</a></p>
+  <p> Also check out my website: <a href="http://www.kongolian.tech">www.kongolian.tech  🧑🏽‍💻</a></p>
 
 
 
 
+
+
+
+
+<!-- Github Stats -->
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
@@ -21,7 +40,7 @@
      <br>
   </div>    
 </details>
-
+<!-- graph summary -->
 <details>
   <summary>📈 Commit Graph</summary>
   <br/>
@@ -29,6 +48,8 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Zeeshan's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=drkongy&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
 
+
+<!-- Footer / credits -->
 ---------------------------------------------------------------------------------------------------------------------
 Credits: <a href="https://github.com/Drkongy">Zeeshan</a><br>
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Drkongy.repoName) [![GitHub followers](https://img.shields.io/github/followers/Drkongy.svg?style=social&label=Follow)](https://github.com/Drkongy?tab=followers)<br/>
