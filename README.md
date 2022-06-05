@@ -23,8 +23,8 @@ Here are some ideas to get you started:
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
         <p align="center">
-          <a href="https://github.com/Drkongy/">
-          <img src="https://github-readme-stats.vercel.app/api?username=Drkongy" alt="Drkongy :: Top Languages" /></a>
+          <a href="https://github.com/Drkongu/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drkongy&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Drkongy :: Top Languages" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/Drkongy/">
