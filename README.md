@@ -1,18 +1,15 @@
-  <h2>Hi, I'm Zeeshan! 👋🏽</h2>
+  <h1>Hi, I'm Zeeshan! 👋🏽</h1>
 
 
 
 <!-- about me -->
-[]: # Language: markdown
-[]: # Path: about.md
-  <h2>About Me</h2>
-  <p>I'm a software engineer & computer science student based in the UK. I'm a big fan of the technology, and I'm always looking to learn new things.</p>
+
+  <h1>About Me 🦍</h1>
+  <p>I'm a software engineer & student based in the UK. I'm a big fan of the technology, and I'm always looking to learn new things.</p>
   <p>I'm currently studying at Aston University, studying Computer Science.</p>
-
   <p>I am currently learning Java & Python, and I'm currently working on a game called BananaClicker using Unity Engine.</p>
-
   <p>Feel free to email me at: <a href="mailto:Zeeshan@kongolian.tech">Zeeshan@kongolian.tech   📧</a></p>
-  <p> Also check out my website: <a href="http://www.kongolian.tech">www.kongolian.tech  🧑🏽‍💻</a></p>
+  <p>Also check out my website: <a href="http://www.kongolian.tech">www.kongolian.tech  🧑🏽‍💻</a></p>
 
 
 
