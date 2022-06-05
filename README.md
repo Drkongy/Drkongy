@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
         <p align="center">
-          <a href="https://github.com/Drkongu/">
+          <a href="https://github.com/Drkongy/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drkongy&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Drkongy :: Top Languages" /></a>
         </p>
         <p align="center">
@@ -34,4 +34,11 @@ Here are some ideas to get you started:
        </p>
      <br>
   </div>    
+</details>
+
+<details>
+  <summary>📈 Commit Graph</summary>
+  <br/>
+  <h2 align="center"> Activity: </h2>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Zeeshan's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=drkongy&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
