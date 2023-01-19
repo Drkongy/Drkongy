@@ -9,8 +9,17 @@
   <p>I'm currently studying at Aston University, studying Computer Science.</p>
   <p>I am currently learning Java & Python, and I'm currently working on a game called BananaClicker using Unity Engine.</p>
   <p>Feel free to email me at: <a href="mailto:Zeeshan@kongolian.tech">Zeeshan@kongolian.tech   📧</a></p>
+<<<<<<< HEAD
   <p>Also check out my portfolio: <a href="http://www.zees.dev">Zees.dev  🧑🏽‍💻</a></p>
   <p>Check out my portfolio hosting website: <a href="http://kongolian.tech/">kongolian.tech 🦍</a></p>
+=======
+  <p>Also check out my portfolio: <a href="https://zees.dev">zees.dev  🧑🏽‍💻</a></p>
+  <p>Check out my website: <a href="http://kongolian.tech">www.kongolian.tech 🦍</a></p>
+
+
+
+
+>>>>>>> 66293de5516786519fedd4707aa5dafc8a7c5a9f
 
 
 
