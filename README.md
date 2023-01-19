@@ -9,12 +9,8 @@
   <p>I'm currently studying at Aston University, studying Computer Science.</p>
   <p>I am currently learning Java & Python, and I'm currently working on a game called BananaClicker using Unity Engine.</p>
   <p>Feel free to email me at: <a href="mailto:Zeeshan@kongolian.tech">Zeeshan@kongolian.tech   📧</a></p>
-  <p>Also check out my portfolio: <a href="http://www.kongolian.tech">www.kongolian.tech  🧑🏽‍💻</a></p>
-  <p>Check out my website: <a href="http://www.kongolian.xyz">www.kongolian.xyz 🦍</a></p>
-
-
-
-
+  <p>Also check out my portfolio: <a href="http://www.zees.dev">Zees.dev  🧑🏽‍💻</a></p>
+  <p>Check out my portfolio hosting website: <a href="http://kongolian.tech/">kongolian.tech 🦍</a></p>
 
 
 
@@ -37,13 +33,6 @@
        </p>
      <br>
   </div>    
-</details>
-<!-- graph summary -->
-<details>
-  <summary>📈 Commit Graph</summary>
-  <br/>
-  <h2 align="center"> Activity: </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Zeeshan's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=drkongy&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
 
 
