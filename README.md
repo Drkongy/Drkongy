@@ -8,7 +8,7 @@
   <p>I'm a software engineer & student based in the UK. I'm a big fan of the technology, and I'm always looking to learn new things.</p>
   <p>I'm currently studying at Aston University, studying Computer Science.</p>
   <p>I am currently learning Java & Python, and I'm currently working on a game called BananaClicker using Unity Engine.</p>
-  <p>Feel free to email me at: <a href="mailto:Zeeshan@kongolian.tech">Zeeshan@kongolian.tech   📧</a></p>
+  <p>Feel free to email me at: <a href="mailto:Zeeshan@zees.dev">Zeeshan@kongolian.tech   📧</a></p>
   <p>Also check out my portfolio: <a href="http://www.zees.dev">Zees.dev  🧑🏽‍💻</a></p>
   <p>Check out my portfolio hosting website: <a href="http://kongolian.tech/">kongolian.tech 🦍</a></p>
 
